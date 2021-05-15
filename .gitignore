@@ -1,3 +1,9 @@
+# Don't save generated files
+*.h
+*.cpp
 *.dot
 *.jpg
+
+# Don't save intermediate files
 ~*
+
