@@ -6,4 +6,5 @@
 
 # Don't save intermediate files
 ~*
+**/tex2
 
